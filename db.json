@@ -1,0 +1,190 @@
+{
+  "corsets": [
+    {
+      "id": 1,
+      "img": "../public/img/corset.jpeg",
+      "name": "Green corset",
+      "price": "20000",
+      "type": "corset",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+      "sizes": [
+        {
+          "size": "s",
+          "count": 6
+        },
+        {
+          "size": "m",
+          "count": 10
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "../public/img/corset2.jpeg",
+      "name": "Red corset",
+      "type": "corset",
+      "price": "25000",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+
+      "sizes": [
+        {
+          "size": "s",
+          "count": 0
+        },
+        {
+          "size": "m",
+          "count": 10
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "dresses": [
+    {
+      "id": 1,
+      "img": "../public/img/dress1.jpg",
+      "name": "Red Dress",
+      "price": "40000 ",
+      "type": "dresses",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+      "sizes": [
+        {
+          "size": "s",
+          "count": 6
+        },
+        {
+          "size": "m",
+          "count": 10
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 41
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "../public/img/dress2.jpg",
+      "name": "Blue Dress",
+      "type": "dresses",
+      "price": "55000",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+
+      "sizes": [
+        {
+          "size": "s",
+          "count": 0
+        },
+        {
+          "size": "m",
+          "count": 10
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ]
+    }, {
+      "id": 3,
+      "img": "../public/img/dress3.jpg",
+      "name": "Pink Skirt",
+      "type": "dresses",
+      "price": "25000",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+
+      "sizes": [
+        {
+          "size": "s",
+          "count": 6
+        },
+        {
+          "size": "m",
+          "count": 0
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ]
+    }, {
+      "id": 4,
+      "img": "../public/img/dress4.jpg",
+      "name": "Pink Top",
+      "type": "dresses",
+      "price": "28000",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+
+      "sizes": [
+        {
+          "size": "s",
+          "count": 6
+        },
+        {
+          "size": "m",
+          "count": 10
+        },
+        {
+          "size": "l",
+          "count": 0
+        },
+        {
+          "size": "xl",
+          "count": 4
+        }
+      ]
+    }, {
+      "id": 5,
+      "img": "../public/img/dress5.jpg",
+      "name": "White Dress",
+      "type": "dresses",
+      "price": "35000",
+      "description": "A spectacular mini dress with a fitted cut,made in a rich terracotta shade.The model emphasizes the silhouette, accentuating the waist and smooth lines of the figure.There is a flirty silt in front,adding a bold touch, and a row of silver buttons gives the image a noble shine and makes it especially expressive.The perfect choice for an evening out or a stylish party.  ",
+
+      "sizes": [
+        {
+          "size": "s",
+          "count": 6
+        },
+        {
+          "size": "m",
+          "count": 0
+        },
+        {
+          "size": "l",
+          "count": 1
+        },
+        {
+          "size": "xl",
+          "count": 0
+        }
+      ]
+    }
+  ]
+}
