@@ -28,7 +28,7 @@ const CorsetPage = () => {
                       style={{ backgroundColor: 'rgba(59, 53, 43, 0.8)' }}>
 
                     <div className="w-[40%] flex items-center justify-center ">
-                        <img src={corsets.img} alt={corsets.name || 'image'} className="w-[400px] h-[600px] object-cover rounded-[10px]"/>
+                        <img src={corsets.img} loading="lazy" alt={corsets.name || 'image'} className="w-[400px] h-[600px] object-cover rounded-[10px]"/>
                     </div>
 
 

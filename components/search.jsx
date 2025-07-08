@@ -37,6 +37,7 @@ const Search = () => {
                             <img
                                 src={result.img}
                                 alt={result.name}
+                                loading="lazy"
                                 className="w-full h-[350px] object-cover mb-3 rounded-[10px]"
                             />
                             <p className="flex flex-col pl-[5px] gap-[1px]  font-[Anchora] text-[#F7F3E3] text-[17px]">

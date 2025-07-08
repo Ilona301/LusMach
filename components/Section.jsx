@@ -12,6 +12,7 @@ const Section = () => {
                         <img
                             src="/img/corset.jpeg"
                             alt="corset"
+                            loading="lazy"
                             className="w-[250px] h-[300px] object-cover rounded-[10px] absolute transition-all duration-1000 ease-in-out group-hover:opacity-20 group-hover:border group-hover:border-[#C03232]"
                         />
                     </Link>
@@ -20,6 +21,7 @@ const Section = () => {
                         <img
                             src="/img/dress.jpg"
                             alt="dress"
+                            loading="lazy"
                             className="w-[250px] h-[300px] object-cover rounded-[10px] absolute transition-all duration-1000 ease-in-out group-hover:opacity-20 group-hover:border group-hover:border-[#C03232]"
                         />
                     </Link>
@@ -28,6 +30,7 @@ const Section = () => {
                         <img
                             src="/img/under.jpeg"
                             alt="under"
+                            loading="lazy"
                             className="w-[250px] h-[300px] object-cover rounded-[10px] absolute transition-all duration-1000 ease-in-out group-hover:opacity-20 group-hover:border group-hover:border-[#C03232]"
                         />
                     </Link>

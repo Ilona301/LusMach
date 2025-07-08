@@ -12,7 +12,7 @@ function Header() {
         <header className="w-full h-[11vh] sticky top-0 z-[2] bg-[#F7F3E3] flex justify-center items-start">
             <div className="w-[80%] h-[60px] fixed top-0 z-[2] bg-[#F7F3E3] border-b border-[#6F1A07] flex items-start justify-around pt-[12px] pb-[10px]">
                 <Link to="/">
-                    <img src="/logo.ico" alt="logo" className="w-[25px] h-[25px]" />
+                    <img src="/logo.ico" alt="logo" loading="lazy" className="w-[25px] h-[25px]" />
                 </Link>
 
                 <span className="text-[#6F1A07] font-[Anchora] text-[20px]">VINTAGE</span>

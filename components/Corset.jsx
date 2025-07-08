@@ -27,6 +27,7 @@ const Corset = () => {
                             <img
                                 src={img}
                                 alt={name || 'image'}
+                                loading="lazy"
                                 className="w-full h-[350px] object-cover  rounded-[10px]"
                             />
                             <p className="flex gap-[5px] flex-col pl-[10px] text-[#F7F3E3] font-[Anchora]">

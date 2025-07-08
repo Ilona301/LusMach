@@ -25,7 +25,7 @@ const DressesPage = () => {
                       style={{ backgroundColor: 'rgba(59, 53, 43, 0.8)' }}
                 >
                     <div className="w-[40%] flex items-center justify-center ">
-                        <img src={dresses.img} alt={dresses.name || 'image'} className="w-[400px] h-[600px] object-cover rounded-[10px]"/>
+                        <img src={dresses.img} loading="lazy" alt={dresses.name || 'image'} className="w-[400px] h-[600px] object-cover rounded-[10px]"/>
                     </div>
 
 
