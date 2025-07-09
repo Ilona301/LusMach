@@ -1,5 +1,6 @@
-import React from 'react';
+import React, {useEffect} from 'react';
 const Footer = () => {
+
     return (
         <footer className="w-full h-[24vh] bg-[#4D1E10] flex justify-start items-start text-[#F7F3E3] px-4">
             <div className="flex items-center justify-center w-[40%] h-full">

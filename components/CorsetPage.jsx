@@ -9,6 +9,7 @@ const CorsetPage = () => {
     console.log(corsets)
     useEffect(() => {
         getCorsets()
+        console.log('corset')
     },[])
 
     async function getCorsets() {

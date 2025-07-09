@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import { useTheme } from "../../providers/ThemeContext.jsx";
 import { useSearch } from "../../providers/searchContext.jsx";
 
+
 function Header() {
     const { darkMode, toggleTheme } = useTheme();
     const { setSearch, search } = useSearch();
