@@ -95,7 +95,7 @@ const Dresses = () => {
                                         src={img}
                                         alt={name || "image"}
                                         // loading="lazy"
-                                        className="w-[100px]  object-cover rounded-[10px]"
+                                        className="w-full h-[350px] object-cover rounded-[10px]"
                                     />
                                     <p className="flex flex-col pl-2 gap-[1px] font-[Anchora] text-[#F7F3E3] text-[17px]">
                                         <span>{name}</span>
